@@ -3,6 +3,6 @@ hello 233534!hello git!
 hello 233534!hello git!
 hello 233534!hello git!
 hello 233534!hello git!
-233534 mater test!
+233534 master test!
 first modified!hot-fix test!
 
